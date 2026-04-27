@@ -97,6 +97,10 @@ Output the content in a format that can be easily converted into a **professiona
 
 
 ## Output
+[Generative_AI_and_LLMs_Technical_Report.pdf](https://github.com/user-attachments/files/27111751/Generative_AI_and_LLMs_Technical_Report.pdf)
+
 
 ## Result
+Thus, the report on Generative AI and Large Language Models (LLMs) has been successfully generated. The study covered the foundational concepts of Generative AI, transformer-based architectures, various applications, and the impact of scaling in LLMs, fulfilling the objectives of the given task.
+
 
